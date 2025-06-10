@@ -1,3 +1,9 @@
+# System Specification
+
+## Project Title
+
+**Autonomous Self-Improving Scientific Research System with Agent-Based Evolutionary Architecture**
+
 ---
 
 ## 1. Project Goal
