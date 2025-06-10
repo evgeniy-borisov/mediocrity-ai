@@ -1,16 +1,5 @@
 ---
 
-### `system_spec.md`
-
-```markdown
-# System Specification
-
-## Project Title
-
-**Autonomous Self-Improving Scientific Research System with Agent-Based Evolutionary Architecture**
-
----
-
 ## 1. Project Goal
 
 Create an AI system that:
